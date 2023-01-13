@@ -8,7 +8,7 @@
 ##### >> conda activate cellfinder
 ##### >> pip install cellfinder
 
-# step 2
+## step 2
 ### Edit the batch file in this repository in the following way to match your data
 #### 
 
