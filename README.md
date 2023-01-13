@@ -14,8 +14,7 @@
 #### line 
 
 # Step 2
-### Run cellfinder on aquired the lighsheet images 
-#### open Anaconda prompt
+#### Open Anaconda prompt
 #### Drag and drop the updated batch file in this repository into the anaconda prompt
 
 
