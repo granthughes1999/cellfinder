@@ -3,7 +3,8 @@
 ### where you will use the cellfinder2 env
 
 # step 1
-### Edit the batch file to match your data
+### Edit the batch file in this repository in the following way to match your data
+#### 
 
 # Step 2
 ### Run cellfinder on aquired the lighsheet images 
