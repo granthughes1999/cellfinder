@@ -3,10 +3,11 @@
 
 ## Intro
 #### Starting from scratch
-
-# Step 1
 ### Create an Anaconda enviroment
-#### 
+#### open Anaconda prompt
+##### >> conda create -n cellfinder python=3.9
+##### >> conda activate cellfinder
+##### >> pip install cellfinder
 
 # step 1
 ### Edit the batch file in this repository in the following way to match your data
