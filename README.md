@@ -12,7 +12,13 @@
 ## step 2
 #### Edit the batch file in this repository in the following way to match your data
 #### line 4: conda call (your cellfinder env name)
-#### line 
+#### line 6: Update all 6 varaibles (-s, -b, -o, --orentation, -v, --atlas)
+##### -s path/to/signal/channel (directory path to .tif photos of gfp channel)
+##### -s path/to/second-signal/channel (directory path to .tif photos of tdTomato channel)
+##### -b path/to/autoflourecent/channel (directory path to .tif photos of autoflourecent/background channel)
+##### -o path/to/where you want/cellfinder output files to save to/ 
+##### --orentation Three letters representing orenation of your .tiff images (example: spl)
+##### -v voxel spacing 
 
 # Step 2
 #### Open Anaconda prompt
