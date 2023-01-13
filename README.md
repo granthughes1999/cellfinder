@@ -1,6 +1,12 @@
 # cellfinder
-## These steps assume you are running this on the Denman Lab Neuropixel Aquisition Computer
-### where you will use the cellfinder2 env
+### If your running this from the Denman Lab Neuropixel Aquisition Computer skip this intro
+
+## Intro
+#### Starting from scratch
+
+# Step 1
+### Create an Anaconda enviroment
+#### 
 
 # step 1
 ### Edit the batch file in this repository in the following way to match your data
