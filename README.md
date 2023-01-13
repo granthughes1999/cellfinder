@@ -9,8 +9,9 @@
 ##### >> pip install cellfinder
 
 ## step 2
-### Edit the batch file in this repository in the following way to match your data
-#### 
+#### Edit the batch file in this repository in the following way to match your data
+#### line 4: conda call (your/cellfinder env name/)
+#### line 
 
 # Step 2
 ### Run cellfinder on aquired the lighsheet images 
