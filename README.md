@@ -1,5 +1,6 @@
 # cellfinder
-### If your running this from the Denman Lab Neuropixel Aquisition Computer skip Step 1
+#### If your running this from the Denman Lab Neuropixel Aquisition Computer skip Step 1
+#### These are the steps for running the open source cellfinder package on Estim collected lightsheet images
 
 ## Step 1
 ### Create an Anaconda enviroment
@@ -8,13 +9,19 @@
 ##### >> conda activate cellfinder
 ##### >> pip install cellfinder
 
-# step 2
-### Edit the batch file in this repository in the following way to match your data
-#### 
+## step 2
+#### Edit the batch file in this repository in the following way to match your data
+#### line 4: conda call (your cellfinder env name)
+#### line 6: Update all 6 varaibles (-s, -b, -o, --orentation, -v, --atlas)
+##### -s path/to/signal/channel (directory path to .tif photos of gfp channel)
+##### -s path/to/second-signal/channel (directory path to .tif photos of tdTomato channel)
+##### -b path/to/autoflourecent/channel (directory path to .tif photos of autoflourecent/background channel)
+##### -o path/to/where you want/cellfinder output files to save to/ 
+##### --orentation Three letters representing orenation of your .tiff images (example: spl)
+##### -v Three numberes representing the voxel spacing of your .tiff images (example: 5 1 1)
 
 # Step 2
-### Run cellfinder on aquired the lighsheet images 
-#### open Anaconda prompt
+#### Open Anaconda prompt
 #### Drag and drop the updated batch file in this repository into the anaconda prompt
 
 
