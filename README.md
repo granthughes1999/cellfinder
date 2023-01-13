@@ -10,7 +10,7 @@
 
 ## step 2
 #### Edit the batch file in this repository in the following way to match your data
-#### line 4: conda call (your/cellfinder env name/)
+#### line 4: conda call (your cellfinder env name)
 #### line 
 
 # Step 2
