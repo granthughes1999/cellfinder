@@ -1,6 +1,6 @@
 # cellfinder
 #### If your running this from the Denman Lab Neuropixel Aquisition Computer skip Step 1
-#### For running the open source cellfinder package on your lightsheet images
+#### These are the steps for running the open source cellfinder package on Estim collected lightsheet images
 
 ## Step 1
 ### Create an Anaconda enviroment
