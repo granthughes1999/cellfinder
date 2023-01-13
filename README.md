@@ -18,7 +18,7 @@
 ##### -b path/to/autoflourecent/channel (directory path to .tif photos of autoflourecent/background channel)
 ##### -o path/to/where you want/cellfinder output files to save to/ 
 ##### --orentation Three letters representing orenation of your .tiff images (example: spl)
-##### -v voxel spacing 
+##### -v Three numberes representing the voxel spacing of your .tiff images (example: 5 1 1)
 
 # Step 2
 #### Open Anaconda prompt
